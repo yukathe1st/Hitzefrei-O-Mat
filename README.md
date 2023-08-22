@@ -24,7 +24,7 @@ Ist bei Mac & Windows im prinzip das gleiche.
 |
 🔵 Blau/Neutraler Smiley 😐 | Die Tempertaur leigt bei 25 oder 26°C. Ab hier kann bereits Hitzefrei erteilt werden.
 |
-🟢 Grün (blinkend)/Glücklicher Smiley 🙂 | Die Tempertaur leigt bei 27°C oder mehr. Bei dieser Temperatur kann ohne Probleme Hitzefrei erteilt werden.
+🟢 Grün (blinkend)/Signalton/Glücklicher Smiley 🙂 | Die Tempertaur leigt bei 27°C oder mehr. Bei dieser Temperatur kann ohne Probleme Hitzefrei erteilt werden.
 
 In einem Abstand von 5 Sekunden wird die Temperatur zwischen den Smiley auf der Matrix eingeblendet.
 
